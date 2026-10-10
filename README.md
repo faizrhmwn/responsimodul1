@@ -58,7 +58,7 @@ Buat nyimpen datanya, ada 3 tabel di Supabase yang udah saling direlasiin:
 ## 4. Cara Install & Jalanin Lokal
 1. Clone repo ini dulu:
    ```bash
-   git clone [LINK_REPO_GITHUB_KAMU]
+   git clone https://github.com/faizrhmwn/responsimodul1
    ```
 2. Masuk ke foldernya:
    ```bash
@@ -81,5 +81,7 @@ Buat nyimpen datanya, ada 3 tabel di Supabase yang udah saling direlasiin:
 6. Selesai, API udah nyala dan bisa dites lewat `http://localhost:3000`
 
 ## 5. Link Vercel (Live API)
-- **Base URL:** `[LINK_VERCEL_KAMU]`
-- **Contoh Endpoint Publik:** `[LINK_VERCEL_KAMU]/api/loans`
+- **Base URL:** `https://responsimodul1-two.vercel.app`
+- **Endpoint Loans:** `https://responsimodul1-two.vercel.app/api/loans`
+- **Endpoint Books:** `https://responsimodul1-two.vercel.app/api/books`
+- **Endpoint Members:** `https://responsimodul1-two.vercel.app/api/members`
